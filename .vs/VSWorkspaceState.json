@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\controllers",
+    "\\src\\lib",
+    "\\src\\routes",
+    "\\src\\schemas",
+    "\\src\\seeds"
+  ],
+  "SelectedNode": "\\src\\middleware",
+  "PreviewInSolutionExplorer": false
+}
